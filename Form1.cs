@@ -44,6 +44,7 @@ namespace Checkbox_Creator
         private void newLineButton_Click(object sender, EventArgs e)
         {
             //See submitButton_Click for use. This is intended to start a new row of checkboxes
+            //Bad comment that should not be allowed
             line++;
         }
     }
